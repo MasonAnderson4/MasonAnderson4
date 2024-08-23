@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Duck Hunt Browser Game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **masonator0465@gmail.com**
 
